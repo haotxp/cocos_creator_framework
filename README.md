@@ -1,3 +1,4 @@
+参考说明：https://mp.weixin.qq.com/s/Z8LZ8wa2zhRgDE_M927ZaQ
 
 # cocos creator 框架 -- kxCreator
 
